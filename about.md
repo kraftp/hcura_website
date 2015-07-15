@@ -1,0 +1,29 @@
+---
+layout: page
+title: "About"
+header-img: "images/tether-astronaut-bg.jpg"
+---
+
+
+{: .center-text}
+##HCURA MISSION STATEMENT
+
+{: .center-text}
+
+*To increase the scope and visibility of undergraduate research by building an interdisciplinary research community that engages in projects that enrich the undergraduate research experience.*
+
+{: .center-text}
+
+##HISTORY OF HCURA
+
+{: .justify-text}
+A 2006 report entitled “Undergraduate Research Experiences at Harvard” found that many students found research to be one of the most rewarding experiences they encountered at Harvard. However, the same report also found that many undergraduates felt that research was never actively promoted within Harvard. The Harvard College Undergraduate Research Association (HCURA) was founded in 2007 in response to this study and since then, the participation of undergraduates in research has steadily increased. Today, the research community at Harvard has expanded dramatically, with a significant portion of undergraduates submitting a thesis prior to graduation.
+
+{: .justify-text}
+As the premier undergraduate research association at Harvard, HCURA is dedicated to building an interdisciplinary research community. We have partnered with the newly established Harvard Office of Undergraduate Research Initiatives (OURI) to run our popular Peer Advising Program, which pairs freshmen interested in research with upperclassmen peer-advisers who guide each of the freshmen through the process of finding a lab, securing funding, and balancing lab work with other commitments. In addition, we collaborate with a number of Harvard departments to host seminars and socials in order to fortify the undergraduate research community here at Harvard.
+
+{: .justify-text}
+We are also committed to providing a forum for student researchers to present their research and interact with their peers. We believe that these efforts deserve a greater campus presence and that all undergraduate researchers should be proud of their contributions to the collective scholarship of our student body. To this end, we have hosted the annual Harvard Undergraduate Research Symposium (HURS) since our founding in 2007 in order to furnish an arena for students to share their work. The Symposiums have also created opportunities for faculty to connect with students, offering a unique educational experience for all participants.
+
+{: .justify-text}
+Recently, we have realized that it is important for undergraduates from other college campuses around the United States to come together and collectively present their research and interact with future colleagues. Thus, in January 2012, we launched the inaugural National Collegiate Research Conference (NCRC).

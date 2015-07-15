@@ -1,0 +1,62 @@
+---
+layout: page
+title: "Board"
+header-img: "images/boardphoto-1516-bg.jpg"
+---
+
+{: .center-text}
+##Announcing the 2015-16 HCURA Executive Board:
+
+{: .center-text}
+###Co-Presidents:
+
+{: .center-text}
+Jessica Herrmann '17 and Kaitavjeet Chowdhary '17
+
+{: .center-text}
+####Campus Projects and Outreach Co-Chairs:
+
+{: .center-text}
+Humphrey Obuobi '18 and Tina Huang '18
+
+{: .center-text}
+####Business and Career Development Co-Chairs:
+
+{: .center-text}
+Max Shen '18 and Xincheng You '18
+
+{: .center-text}
+####Technology Co-Chairs:
+
+{: .center-text}
+Peter Kraft '17 and Grigory Khimulya '18
+
+{: .center-text}
+####Programming Co-Chairs:
+
+{: .center-text}
+Azraa Chaudhury '18 and Christopher Li '18
+
+{: .center-text}
+####Participant Affairs/Operations Co-Chairs:
+
+{: .center-text}
+Nicolas Ontiveros '18, William Cho '18, Samuel Oh '18
+
+{: .center-text}
+####Brevia Co-Chairs:
+
+{: .center-text}
+Jessi Glueck '17 and Amir Bitran '16
+
+{: .center-text}
+####Brevia Design Chair:
+
+{: .center-text}
+Silvia Golumbeanu '17
+
+{: .center-text}
+####Publicity and Outreach Chair:
+
+{: .center-text}
+Kamran Jamil '18

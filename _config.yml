@@ -1,0 +1,16 @@
+# Site settings
+title: HCURA
+header-img: images/galaxy-bg.jpg
+email: board@hcura.org
+description: "Site for Harvard College Undergraduate Research Association (HCURA)"
+baseurl: "/hcura_website"
+url: "http://hcura.org"
+github_username:  kraftp
+facebook_username:  harvardresearch
+
+# Build settings
+markdown: kramdown
+highlighter: pygments
+permalink: pretty
+paginate: 5
+exclude: ["README.md"]
