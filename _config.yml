@@ -3,7 +3,7 @@ title: HCURA
 header-img: images/galaxy-bg.jpg
 email: board@hcura.org
 description: "Site for Harvard College Undergraduate Research Association (HCURA)"
-baseurl: "/hcura_website"
+baseurl: ""
 url: "http://hcura.org"
 github_username:  kraftp
 facebook_username:  harvardresearch
