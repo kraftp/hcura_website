@@ -7,7 +7,7 @@ author:     "Peter Kraft"
 header-img: "images/dessert-bg.jpg"
 ---
 
-![Pub Poster](/images/march-social-pub.png){: .center-image }
+![Pub Poster]({{site.baseurl}}/images/march-social-pub.png){: .center-image }
 
 {: .center-text}
 

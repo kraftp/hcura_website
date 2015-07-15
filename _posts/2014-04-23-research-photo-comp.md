@@ -7,7 +7,7 @@ author:     "Peter Kraft"
 header-img: "images/lifting-space-shuttle-bg.jpg"
 ---
 
-![Competition Poster](/images/research-photo-competition-14.jpg){: .center-image }
+![Competition Poster]({{site.baseurl}}/images/research-photo-competition-14.jpg){: .center-image }
 
 {: .center-text}
 ## Submission Deadline:  Friday, April 25th 2014 at 11:59 PM.
