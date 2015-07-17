@@ -8,7 +8,7 @@ Website built using Jekyll.  A guide to installing Jekyll [can be found here](ht
 
 This serves the website locally.
 
-Javascipt is minified using Uglify while Bootstrap's CSS is minified and compacted using UnCSS and CSSO and critical CSS is extracted using Critical and then inlined.  To minify Javascript or process CSS, [first install node.js and npm here](https://nodejs.org/download/).  Then install gulp and all packages by running in the repository root:
+Javascipt is minified using Uglify while CSS is minified and compacted using UnCSS and CSSO then concatenated and critical CSS is extracted using Critical and then inlined.  To minify Javascript or process CSS, [first install node.js and npm here](https://nodejs.org/download/).  Then install gulp and all packages by running in the repository root:
 
     npm install --global gulp
     npm install --save-dev gulp
@@ -23,7 +23,7 @@ Then, to minify all Javascript, run in the repository root:
 
     gulp compressjs
 
-To extract critical CSS and compactify and minify Bootstrap CSS, run in the repository root:
+To extract critical CSS and compactify, minify, and concatenate the rest, run in the repository root:
 
     gulp processcss
 

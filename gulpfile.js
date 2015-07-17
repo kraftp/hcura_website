@@ -35,7 +35,32 @@ gulp.task('processcss', function () {
           extname: '.min.css'
         }))
         .pipe(gulp.dest('css'));
-
+        gulp.src('css/font-awesome.css')
+              .pipe(uncss({
+                  html: ['_site/index.html', '_site/**/index.html'],
+                  ignoreSheets : [/fonts.googleapis/],
+              }))
+              .pipe(csso())
+              .pipe(rename({
+                extname: '.min.css'
+              }))
+              .pipe(gulp.dest('css'));
+        gulp.src('css/style.css')
+              .pipe(csso())
+              .pipe(rename({
+                extname: '.min.css'
+              }))
+              .pipe(gulp.dest('css'));
+        gulp.src('css/syntax.css')
+              .pipe(csso())
+              .pipe(rename({
+                extname: '.min.css'
+              }))
+              .pipe(gulp.dest('css'));
+        gulp.src(['css/font-awesome.min.css', 'css/bootstrap.min.css', 'css/style.min.css', 'css/syntax.min.css'])
+              .pipe(concat('main.min.css'))
+              .pipe(csso())
+              .pipe(gulp.dest('css'));
    critical.generate({
      base: './',
      src: '_site/index.html',
