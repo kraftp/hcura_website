@@ -48,7 +48,7 @@ Fill out this form to send an email to us!
     <div class="row control-group">
         <div class="form-group col-xs-12 floating-label-form-group controls">
             <label>Message</label>
-            <textarea rows="5" class="form-control" placeholder="Message" id="message" required data-validation-required-message="Please enter a message."></textarea>
+            <textarea rows="5" name="body" class="form-control" placeholder="Message" id="message" required data-validation-required-message="Please enter a message."></textarea>
             <p class="help-block text-danger"></p>
         </div>
     </div>
