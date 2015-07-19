@@ -3,7 +3,6 @@ layout:     post
 title:      "Research Photography Competition 2014"
 subtitle:   "Submissions are now open!"
 date:       2014-04-23 12:00:00
-author:     "Peter Kraft"
 header-img: "images/lifting-space-shuttle-bg.jpg"
 ---
 
