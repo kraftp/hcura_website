@@ -2,6 +2,8 @@
 layout: page
 title: "Board"
 header-img: "images/boardphoto-1516-bg.jpg"
+redirect_from:
+  - /hcura-board-2015-16/
 ---
 
 {: .center-text}

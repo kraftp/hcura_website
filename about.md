@@ -2,6 +2,8 @@
 layout: page
 title: "About"
 header-img: "images/tether-astronaut-bg.jpg"
+redirect_from:
+  - /about/hcura-board-alumni/
 ---
 
 

@@ -16,3 +16,4 @@ paginate: 5
 exclude: ["README.md", node_modules/, js/]
 gems:
   - jekyll-sitemap
+  - jekyll-redirect-from
