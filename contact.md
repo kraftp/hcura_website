@@ -2,6 +2,8 @@
 layout: page
 title: "Contact"
 header-img: "images/moon-footprint-bg.jpg"
+redirect_from:
+  - /contact-us/
 ---
 
 ###By e-mail:

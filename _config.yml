@@ -5,7 +5,7 @@ email: board@hcura.org
 description: "Site for Harvard College Undergraduate Research Association (HCURA)"
 baseurl: ""
 url: "http://hcura.org"
-github_username:  kraftp
+github_username:  kraftp/hcura_website
 facebook_username:  harvardresearch
 
 # Build settings
