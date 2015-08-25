@@ -1,6 +1,6 @@
 #HCURA Website
 
-Credit to the Clean Blog theme by [Start Bootstrap](http://startbootstrap.com/).  Website available at [hcura.org](http://hcura.org).
+Credit to the Clean Blog theme by [Start Bootstrap](http://startbootstrap.com/).  Credit to wowthemes.net for their HTML [theme](http://www.wowthemes.net/studio-francesca-free-responsive-template/), which we adapted to Jekyll. Website available at [hcura.org](http://hcura.org).
 
 Website built using Jekyll.  A guide to installing Jekyll [can be found here](http://jekyllrb.com/docs/installation/).  Once Jekyll is installed, view the site locally by running in the repository root:
 

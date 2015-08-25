@@ -18,11 +18,11 @@
                 <li>
                     <a href="{{ site.baseurl }}/">Home</a>
                 </li>
-                {% for page in site.pages %}{% if page.title %}{% if page.title != '404' %}
+                {% for page in site.pages %}{% if page.title %}{% if page.title != '404' %}{% if page.layout != 'ncrc_default' %}{% if page.layout != 'ncrc_post' %}
                 <li>
                     <a href="{{ page.url | prepend: site.baseurl }}">{{ page.title }}</a>
                 </li>
-                {% endif %}{% endif %}{% endfor %}
+                {% endif %}{% endif %}{% endif %}{% endif %}{% endfor %}
                 <li>
                     <a href="http://goo.gl/forms/5JyDX41gsx">Join</a>
                 </li>
@@ -30,7 +30,7 @@
                     <a href="https://www.sponsormyevent.com/national-collegiate-research-conference-harvard-university-cambridge">Sponsor</a>
                 </li>
                 <li>
-                    <a href="http://ncrc.hcura.org">NCRC</a>
+                    <a href="/ncrc">NCRC</a>
                 </li>
                 <li>
                     <a href="http://brevia.hcura.org">Brevia</a>
