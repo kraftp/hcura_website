@@ -7,6 +7,7 @@ baseurl: ""
 url: "http://hcura.org"
 github_username:  kraftp/hcura_website
 facebook_username:  harvardresearch
+join_link: http://goo.gl/forms/o9uBMtR9JG
 
 # Build settings
 markdown: kramdown
