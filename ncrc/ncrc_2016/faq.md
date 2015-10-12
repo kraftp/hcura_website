@@ -38,3 +38,11 @@ Warm clothes! In previous years, Cambridge and Boston have always been quite sno
 **Will I be reimbursed for my travel costs?**
 
 Only plenary speakers and keynote speakers are reimbursed for travel costs.
+
+**Can a team of researchers apply together for NCRC?**
+
+No, unfortunately, NCRC only accepts one person per application. However, it is possible for a representative of a team to apply individually to NCRC.
+
+**Are there any application fees?**
+
+No, but there will be a participant and housing fee if you are accepted to the conference.

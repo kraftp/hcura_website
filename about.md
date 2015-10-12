@@ -23,3 +23,55 @@ As the premier undergraduate research association at Harvard, HCURA is dedicated
 We are also committed to providing a forum for student researchers to present their research and interact with their peers. We believe that these efforts deserve a greater campus presence and that all undergraduate researchers should be proud of their contributions to the collective scholarship of our student body. To this end, we have hosted the annual Harvard Undergraduate Research Symposium (HURS) since our founding in 2007 in order to furnish an arena for students to share their work. The Symposiums have also created opportunities for faculty to connect with students, offering a unique educational experience for all participants.
 
 Recently, we have realized that it is important for undergraduates from other college campuses around the United States to come together and collectively present their research and interact with future colleagues. Thus, in January 2012, we launched the inaugural National Collegiate Research Conference (NCRC).
+
+{: .center-text}
+##FACULTY ADVISORS
+
+{: .center-text}
+**Gregory Llacer**
+
+{: .center-text}
+Director of the Office of Undergraduate Research Initiatives
+
+{: .center-text}
+**Dudley Herschbach**
+
+{: .center-text}
+Frank B. Baird Professor of Science and Professor Emeritus
+
+{: .center-text}
+Nobel Laureate in Chemistry, 1986
+
+{: .center-text}
+**Robert Lue**
+
+{: .center-text}
+Professor of the Practice of Molecular and Cellular Biology
+
+{: .center-text}
+**Jeremy Bloxham**
+
+{: .center-text}
+Mallinckrodt Professor of Geophysics and Professor of Computational Science
+
+{: .center-text}
+Dean of Science, Faculty of Arts and Sciences
+
+{: .center-text}
+**Melissa Franklin**
+
+{: .center-text}
+Mallinckrodt Professor of Physics
+
+
+{: .center-text}
+**Margaret Lynch**
+
+{: .center-text}
+Life Sciences Undergraduate Research Advisor
+
+{: .center-text}
+**Gregg Tucci**
+
+{: .center-text}
+Senior Lecturer on Chemistry and Chemical Biology
