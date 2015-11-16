@@ -18,11 +18,11 @@
                 <li>
                     <a href="{{ site.baseurl }}/">Home</a>
                 </li>
-                {% for page in site.pages %}{% if page.title %}{% if page.title != '404' %}{% if page.layout != 'ncrc_default' %}{% if page.layout != 'ncrc_post' %}
+                {% for page in site.pages %}{% if page.title %}{% if page.title != '404' %}{% if page.layout != 'ncrc_default' %}{% if page.layout != 'ncrc_post' %}{% if page.layout != 'hsrc_default' %}{% if page.layout != 'hsrc_post' %}
                 <li>
                     <a href="{{ page.url | prepend: site.baseurl }}">{{ page.title }}</a>
                 </li>
-                {% endif %}{% endif %}{% endif %}{% endif %}{% endfor %}
+                {% endif %}{% endif %}{% endif %}{% endif %}{% endif %}{% endif %}{% endfor %}
                 <li>
                     <a href="{{ site.join_link }}">Join</a>
                 </li>
