@@ -5,7 +5,7 @@ title: Frequently Asked Questions
 
 **Who is HSRC really for?**
 
-Any high school sophomore, junior, or senior who has demonstrated a substantial interest in the sciences. Now that doesn’t mean that you have to have cured cancer or won a Nobel prize, but it does mean that you should be able to show us that you are truly interested in science beyond simply taking your required Biology and Physics classes in school. We in particular are looking for students who hope to pursue science in college and beyond, or who are considering pursuing science in the future, but who aren’t completely sure.
+Any high school sophomore, junior, or senior who has demonstrated a substantial interest in the sciences. Now that doesn’t mean that you have to have cured cancer or won a Nobel prize, but it does mean that you should be able to show us that you are truly interested in science beyond simply taking your required Biology and Physics classes in school. We in particular are looking for students who hope to pursue science in college and beyond, or who are considering pursuing science in the future, but who aren’t completely sure. Additionally, we especially welcome applications from students of minority backgrounds.
 
 **I’m a freshman, but I really like science. Can I apply?**
 
@@ -27,7 +27,7 @@ Because you like science, and Harvard can offer you an inspiring day of learning
 
 The application is very simple- you can find the form under “Apply.” It only involves some providing some personal information, a two short answer responses that you can answer in a few paragraphs, an uploaded transcript (it can be unofficial) or report card, and a short list of activities and awards. You’re also welcome to provide any research that you’ve done in the past.
 
-Applications are due on Monday, November 23rd at 11:59 PM, and decisions will be emailed by that Friday the 27th.
+**Applications are due on Wednesday, November 25 at 11:59 PM, and decisions will be released via email later that weekend.**
 
 
 **How much does HSRC cost?**
