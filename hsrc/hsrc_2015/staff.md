@@ -71,4 +71,4 @@ Kaitavjeet Chowdhary is a junior studying Chemical & Physical Biology. Originall
 
 S.B. Candidate in Biomedical Engineering, Harvard Class of 2017.
 
-Jessi is Co-President of HCURA. She conducts research at the Harvard John A. Paulson School of Engineering and Applied Sciences in the laboratory of Dr. Jennifer A. Lewis, Hansjörg Wyss Professor of Biologically Inspired Engineering.
+Jessi is Co-President of HCURA. Jessi attended Harriton Senior High School in Pennsylvania. At Harvard, she plays in the Bach Society Orchestra, and has also been the past Editor-in-Chief of Brevia, a Harvard research publication. She conducts research at the Harvard John A. Paulson School of Engineering and Applied Sciences in the laboratory of Dr. Jennifer A. Lewis, Hansjörg Wyss Professor of Biologically Inspired Engineering.
