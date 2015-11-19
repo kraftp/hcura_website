@@ -10,8 +10,8 @@ title:  Mission
 HSRC is a one-day conference for exceptional high school students (sophomores, juniors, and seniors) in the sciences, hosted on Harvard’s campus, that will entail a series of speakers, workshops, and mentoring sessions designed to encourage and promote interest in the natural sciences as well as research.
 </h6>
 
-<img src="/hsrc/images/widener.jpg" align="right" style="width: 50%; margin-left: 20px"/>
-<div style="text-align: justify;text-justify: inter-word; width: 50%">
+<img src="/hsrc/images/widener.jpg" align="right" style="width: 500px; margin-left: 20px"/>
+<div style="text-align: justify;text-justify: inter-word; width: 500px">
 
 HSRC is a platform for exceptional high school students from across New England area and Northeastern United States to develop their interests in the natural sciences and in research. The Harvard College Undergraduate Research Association (HCURA) strongly believes that students have the ability to make meaningful and significant contributions in all fields of study and to the greater body of world research knowledge. Students are not only engaging in research earlier in their careers—starting from their time in high school—but they are also participating in increasing numbers. In light of this positive growth, we have identified the urgent need to promote outreach and interest in the sciences by encouraging talented high school students in the sciences to consider or continue research.
 
@@ -20,8 +20,8 @@ HSRC promotes interest in the natural sciences and science research for high sch
 
 <h5>Core Objectives of HSRC:</h5>
 
-<img src="/hsrc/images/photo5.jpg" align="right" style="width: 55%; margin-left: 20px"/>
-<div style="text-align: justify;text-justify: inter-word; width: 45%">
+<img src="/hsrc/images/photo5.jpg" align="right" style="width: 470px; margin-left: 20px"/>
+<div style="text-align: justify;text-justify: inter-word; width: 530px">
 
 1)	HSRC will allow advanced high school students to advance and deepen their exploration of the natural and applied sciences, through exposure to Harvard’s repository of resources.
 
