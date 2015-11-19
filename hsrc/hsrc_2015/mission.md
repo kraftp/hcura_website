@@ -18,7 +18,7 @@ HSRC promotes interest in the natural sciences and science research for high sch
 
 <h5>Core Objectives of HSRC:</h5>
 
-<img src="/hsrc/images/photo5.jpg" align="right" style="width: 470px; margin-left: 20px"/>
+<img src="/hsrc/images/Photo5.jpeg" align="right" style="width: 470px; margin-left: 20px"/>
 
 1)	HSRC will allow advanced high school students to advance and deepen their exploration of the natural and applied sciences, through exposure to Harvard’s repository of resources.
 
