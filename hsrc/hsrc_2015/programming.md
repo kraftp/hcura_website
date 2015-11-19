@@ -5,7 +5,6 @@ title: Programming
 <h5>FACULTY SPEAKERS</h5>
 
 <img src="/hsrc/images/photo4.jpg" align="right" style="width: 50%; margin-left: 20px"/>
-<div style="text-align: justify;text-justify: inter-word; width: 460px">
 
 
 Selected participants at HSRC will hear from Harvard Faculty speakers about current ongoing areas of research in the life sciences and physical sciences. Harvard University is one of the top research institutions in the world, and providing high school students with opportunities to form connections with both Harvard faculty and students who are pursuing cutting-edge work will help provide encouragement and inspiration. HSRC challenges the traditional paradigms of studying science at the high school level, which emphasizes the memorization and regurgitation of facts and information.   Rather, HSRC will expose students to researchers and research intended to excite, motivate, and inspire.
@@ -14,9 +13,7 @@ Selected participants at HSRC will hear from Harvard Faculty speakers about curr
 
 HSRC participants will attend a series of small group workshops with fewer than 10 participants led by Harvard researchers. The skills presented in these workshops will focus on imparting skills translatable to all other academic disciplines rather than facts. Workshops will include: “Reading Scientific Literature,” “Technical and Scientific Writing,” “The Art of Crafting Personal Statements and Application Essays,” and "Public Speaking and Presentation in the Sciences.”
 
-</div>
 <img src="/hsrc/images/photo3.jpg" align="right" style="width: 50%; margin-left: 20px"/>
-<div style="text-align: justify;text-justify: inter-word; width: 460px">
 
 <h5>PANELS</h5>
 
@@ -27,9 +24,7 @@ HSRC participants will hear from current Harvard undergraduate researchers about
 HSRC participants will receive one-on-one mentoring from Harvard students. Mentoring sessions will allow participants to ask questions about how to further their science education through research, provide participants with guidance on selecting and applying to colleges, and foster long-term connections between high school students and Harvard students who have successfully navigated their high school careers.
 Connect: HSRC enables students to form friendships and connections with other talented high school students who are interested in science.
 
-</div>
 <img src="/hsrc/images/photo6.jpg" align="right" style="width: 50%; margin-left: 20px"/>
-<div style="text-align: justify;text-justify: inter-word; width: 460px">
 
 <h5>GROWTH</h5>
 
