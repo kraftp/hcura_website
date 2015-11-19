@@ -2,7 +2,8 @@
 layout: hsrc_post
 title: About HCURA
 ---
-<img src="/ncrc/images/hcura_logo.jpg" align="left"/>
+<img src="/hsrc/images/hcuraboard.jpg" align="right" style="width: 50%; margin-left: 20px"/>
+<div style="text-align: justify;text-justify: inter-word; width: 50%">
 The **Harvard College Undergraduate Research Association (HCURA)** was founded in 2007 upon the mission of building an interdisciplinary research community among Harvard undergraduates. This goal remains unchanged and we are thrilled with how the undergraduate research community has expanded in the past few years.
 
 Our goal to increase the scope and visibility of Harvard undergraduate research is the focus of our many on-campus initiatives, including the **Peer Advising Program**, where upperclassmen introduce freshmen to undergraduate research at Harvard (160+ advisers and advisees); The **Visitas Undergraduate Research Symposium**, which showcases Harvard undergraduate research to prefrosh (~150 attendees); and The **Life Sciences Undergraduate Research Fair**, which presents physical sciences research to freshman looking for labs (100+ labs represented).
