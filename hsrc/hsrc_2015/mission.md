@@ -5,12 +5,6 @@ title:  Mission
 
 <h5>Welcome to the first inaugural Harvard Science Research Conference!</h5>
 
-<style>
-pp.small {
-    line-height: 110%;
-}
-</style>
-
 <h6>The 2015 Harvard Science Research Conference (HSRC) will be held on Saturday, December 5, 2015 at Harvard University in Cambridge, MA.
 
 HSRC is a one-day conference for exceptional high school students (sophomores, juniors, and seniors) in the sciences, hosted on Harvard’s campus, that will entail a series of speakers, workshops, and mentoring sessions designed to encourage and promote interest in the natural sciences as well as research.
