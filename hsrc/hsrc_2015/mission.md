@@ -16,7 +16,11 @@ HSRC is a platform for exceptional high school students from across New England 
 
 HSRC promotes interest in the natural sciences and science research for high school students by facilitating exposure to some of the most important ongoing developments in all facets of the sciences, promoting acquisition of fundamental skills in public speaking, writing, and reading for the sciences, and providing individualized mentoring by Harvard students to encourage conference participants to pursue future study and careers in the sciences.
 
+
+
 <h5>Core Objectives of HSRC:</h5>
+
+<img src="/hsrc/images/Photo5.jpg" align="right" style="width: 50%; margin-left: 20px;"/>
 
 1)	HSRC will allow advanced high school students to advance and deepen their exploration of the natural and applied sciences, through exposure to Harvard’s repository of resources.
 
