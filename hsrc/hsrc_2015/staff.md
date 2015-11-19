@@ -30,7 +30,7 @@ Mimi is a senior at Harvard concentrating in Human Developmental and Regenerativ
 
 *S.B. Candidate in Biomedical Engineering, Harvard College Class of 2017.*
 
-Jessi is Co-President of HCURA. Jessi attended Harriton Senior High School in Pennsylvania. At Harvard, she plays in the Bach Society Orchestra, and has also been the past Editor-in-Chief of Brevia, a Harvard research publication. She conducts research at the Harvard John A. Paulson School of Engineering and Applied Sciences in the laboratory of Dr. Jennifer A. Lewis, Hansjörg Wyss Professor of Biologically Inspired Engineering.
+Jessi is a junior concentrating in Biomedical Engineering. Originally from Pennsylvania, Jessi attended Harriton Senior High School. At Harvard, she is Co-President of HCURA, plays flute in the Bach Society Orchestra, and has also been the past Editor-in-Chief of Brevia, a Harvard research publication. She currently conducts research at the Harvard John A. Paulson School of Engineering and Applied Sciences in the laboratory of Dr. Jennifer A. Lewis, Hansjörg Wyss Professor of Biologically Inspired Engineering. Jessi is passionate about music and coffee. 
 
 <br>
 <br>
@@ -53,7 +53,7 @@ Kaitavjeet Chowdhary is a junior studying Chemical & Physical Biology. Originall
 
 *A.B. Candidate in Chemical and Physical Biology, Secondary Degree in East Asian Studies, Harvard College Class of 2018*
 
-Tina is a sophomore in Adams house concentrating in Chemical and Physical Biology, with a secondary in East Asian Studies.  Hailing from San Diego, California, she has love-hate relationship with East Coast seasons and snow.  On campus, Tina is involved in the Harvard Social Innovation Collaborative and mentors elementary and high school students at the Harvard-Allston Education Portal.  In high school, she worked for three years in a 3D bioprinting and tissue engineering lab and published a first author paper in her junior year.
+Tina is a sophomore in Adams house concentrating in Chemical and Physical Biology, with a secondary in East Asian Studies.  Hailing from San Diego, California, she has a love-hate relationship with East Coast seasons and snow.  On campus, Tina is involved in the Harvard Social Innovation Collaborative, a student organization dedicated to promoting social entrepreneurship, and mentors elementary and high school students at the Harvard-Allston Education Portal.  In high school, she worked for three years in a 3D bioprinting and tissue engineering lab and published a first author paper in her junior year.
 
 <br>
 
@@ -66,7 +66,7 @@ Tina is a sophomore in Adams house concentrating in Chemical and Physical Biolog
 
 *A.B. Candidate in Biomedical Engineering, Secondary Degree in Philosophy, Harvard College Class of 2018*
 
-Will became interested in developing HSRC in hopes of using his various experiences to provide ambitious high school students with opportunities to explore scientific research. He is concentrating in Biomedical Engineering with a secondary in Philosophy. When he takes a break from his academic pursuits, Will practices kendo as a shodan with the Harvard-Radcliffe Kendo Club and plays music on the piano or with his clarinet in the Harvard Wind Ensemble. Needless to say, Will is interested in many things; he is always happy to share his experiences and enjoys meeting new people.
+Will is a sophomore concentrating in Biomedical Engineering with a secondary in Philosophy. Will became interested in developing HSRC in hopes of using his various experiences to provide ambitious high school students with opportunities to explore scientific research. When he is not working on his academic pursuits, Will practices Kendo as a Shodan with the Harvard-Radcliffe Kendo Club and plays music on the piano or with his clarinet in the Harvard Wind Ensemble. Needless to say, Will is interested in many things; he is always happy to share his experiences and enjoys meeting new people.
 
 <br>
 <br>
