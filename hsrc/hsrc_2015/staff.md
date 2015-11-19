@@ -47,7 +47,7 @@ Jessi is Co-President of HCURA. Jessi attended Harriton Senior High School in Pe
 Kaitavjeet Chowdhary is a junior studying Chemical & Physical Biology. Originally from Glastonbury, CT, Kaitavjeet enjoyed participating in a wide range of science, research, and other activities in high school. During his time at Glastonbury High School, Kaitavjeet was a two-time *USABO* national semifinalist, a participant at the *National Science Bowl* competition, a 3rd place category winner at *Intel ISEF*, a participant at the *National Junior Science and Humanities Symposium*, and a national semifinalist in both the *Intel Science Talent Search* and the *Siemens Competition for Math, Science, and Technology*. At Harvard, Kaitavjeet currently serves as one of the co-presidents of *HCURA* and does research in an ALS lab on campus. Outside of science and research, Kaitavjeet enjoys dancing on the Harvard Bhangra team, playing tennis, and running along the Charles. He hopes to pursue a career as a physician-scientist in the future.  
 <br>
 
-<img src="/hsrc/images/kevin.png" align="left" style="width: 250px;"/>
+<img src="/hsrc/images/tina2.png" align="left" style="width: 250px;"/>
 <h5>Tina Huang</h5>
 **Chair of Campus Projects and Outreach**
 
