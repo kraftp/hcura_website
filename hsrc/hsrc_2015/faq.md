@@ -5,7 +5,7 @@ title: Frequently Asked Questions
 
 **Who is HSRC really for?**
 
-Any high school sophomore, junior, or senior who has demonstrated a substantial interest in the sciences. Now that doesn’t mean that you have to have cured cancer or won a Nobel prize, but it does mean that you should be able to show us that you are truly interested in science beyond simply taking your required Biology and Physics classes in school. We in particular are looking for students who hope to pursue science in college and beyond, or who are considering pursuing science in the future, but who aren’t completely sure. Additionally, we especially welcome applications from students of minority backgrounds.
+Any high school sophomore, junior, or senior who has demonstrated a substantial interest in the sciences. That doesn’t mean that you have to have cured cancer or won a Nobel prize, but it does mean that you should be able to show us that you are truly interested in science beyond simply taking your required Biology and Physics classes in school. We in particular are looking for students who hope to pursue science in college and beyond, or who are considering pursuing science in the future, but who aren’t completely sure. Additionally, we especially welcome applications from students of minority backgrounds.
 
 **I’m a freshman, but I really like science. Can I apply?**
 
@@ -13,7 +13,7 @@ Unfortunately, HSRC is only open to sophomores, juniors, and seniors.
 
 **How competitive is the application for HSRC?**
 
-Competitive but not ridiculously competitive. Again, you don’t have to have won competitions such as Intel STS, Siemens, National Physics Bowl, or USA Biology Olympiad to be accepted, but many students have participated in science extracurricular activities such as the ones listed above in their high school in some form or another—whether that means membership in a science club or research in a bioengineering lab. Hopefully, however, after our conference, you will be encouraged to participate in more science activities!
+Competitive but not ridiculously competitive. You don’t need to have won competitions such as Intel STS, Siemens, National Physics Bowl, or USA Biology Olympiad to be accepted, but many students have participated in science extracurricular activities such as the ones listed above in their high school in some form or another—whether that means membership in a science club or research in a bioengineering lab. Hopefully, however, after our conference, you will be encouraged to participate in more science activities!
 
 **HSRC is the Harvard Science Research Conference. Do I need prior research experience?**
 
@@ -25,9 +25,9 @@ Because you like science, and Harvard can offer you an inspiring day of learning
 
 **What are the components of the application? How does the process work?**
 
-The application is very simple- you can find the form under “Apply.” It only involves some providing some personal information, a two short answer responses that you can answer in a few paragraphs, an uploaded transcript (it can be unofficial) or report card, and a short list of activities and awards. You’re also welcome to provide any research that you’ve done in the past.
+The application is very simple- you can find the form under “Apply.” It only involves some providing some personal information, a two short answer responses that you can answer in a two to three paragraphs, and a short list of activities and awards. You’re also welcome to provide any research that you’ve done in the past, but it's not necessary. Best of all, we don't require any essays!
 
-**Applications are due on Wednesday, November 25 at 11:59 PM, and decisions will be released via email later that weekend.**
+***EXTENDED DEADLINE: Applications are due on Saturday, November 28 at 11:59 PM, and decisions will be released via email no later than the subsequent Monday.***
 
 
 **How much does HSRC cost?**
