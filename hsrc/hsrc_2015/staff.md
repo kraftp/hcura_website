@@ -28,9 +28,9 @@ Mimi is a senior at Harvard concentrating in Human Developmental and Regenerativ
 <h5>Jessi Herrmann</h5>
 **Co-President of HCURA**
 
-*S.B. Candidate in Biomedical Engineering, Harvard College Class of 2017.*
+*A.B. Candidate in Biomedical Engineering, Secondary Degree in English, Harvard College Class of 2017.*
 
-Jessi is a junior concentrating in Biomedical Engineering. Originally from Pennsylvania, Jessi attended Harriton Senior High School. At Harvard, she is Co-President of HCURA, plays flute in the Bach Society Orchestra, and has also been the past Editor-in-Chief of Brevia, a Harvard research publication. She currently conducts research at the Harvard John A. Paulson School of Engineering and Applied Sciences in the laboratory of Dr. Jennifer A. Lewis, Hansjörg Wyss Professor of Biologically Inspired Engineering. Jessi is passionate about music and coffee. 
+Jessi is a junior concentrating in Biomedical Engineering. Originally from Pennsylvania, Jessi attended Harriton Senior High School where she won state and national awards through her participation in the Technology Student Association and held a provisional patent application for a musical training device. Jess also previously assisted on research at the University of Pennsylvania. At Harvard, she is also Co-President of HCURA, has been the past Publisher of *Brevia*, a Harvard research publication, and plays flute in the Bach Society Orchestra. She currently conducts research in the laboratory of Dr. Jennifer Lewis at the Harvard John A. Paulson School of Engineering and Applied Sciences, and has been a PRISE fellow. Jessi is passionate about music and coffee.
 
 <br>
 <br>
