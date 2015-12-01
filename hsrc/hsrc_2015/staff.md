@@ -3,6 +3,9 @@ layout: hsrc_post
 title: Conference Organizing Staff
 ---
 
+<h5>To contact the HSRC Organizing Committee, email us at hsrc [AT] hcura [DOT] org.</h5>
+
+
 <img src="/hsrc/images/chris7.png" align="left" style="width: 248px;"/>
 <h5>Christopher Li</h5>
 **Chair of Conference Programming**
@@ -32,8 +35,6 @@ Mimi is a senior at Harvard concentrating in Human Developmental and Regenerativ
 
 Jessi is a junior concentrating in Biomedical Engineering. Originally from Pennsylvania, Jessi attended Harriton Senior High School where she won state and national awards through her participation in the Technology Student Association and held a provisional patent application for a musical training device. Jess also previously assisted on research at the University of Pennsylvania. At Harvard, she is also Co-President of HCURA, has been the past Publisher of *Brevia*, a Harvard research publication, and plays flute in the Bach Society Orchestra. She currently conducts research in the laboratory of Dr. Jennifer Lewis at the Harvard John A. Paulson School of Engineering and Applied Sciences, and has been a PRISE fellow. Jessi is passionate about music and coffee.
 
-<br>
-<br>
 <br>
 <br>
 <br>
