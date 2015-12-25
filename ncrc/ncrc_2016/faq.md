@@ -23,6 +23,8 @@ Yes, we do allow for non-competitive participants to apply to and attend the con
 
 No, as a plenary presenter you will not present a poster. This also means you would not be competing for the poster competition prizes. You will, however, be speaking to a group of ~50-70 other participants via a PowerPoint presentation. Plenary speakers are awarded $150.00.
 
+Update: Plenary presenters are not required to present posters at the conference. However, doing so will provide you with the opportunity to receive valuable feedback on your research, communication, and presentation skills. We highly recommend presenting a poster, although plenaries speakers are not eligible to compete for the poster competition awards.
+
 **I don’t think I can attend for all three days of the conference — should I still apply?**
 
 All participants must attend all three days of the conference.
