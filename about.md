@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "About"
-header-img: "images/tether-astronaut-bg.jpg"
+header-img: "images/board-hcura.jpg"
 redirect_from:
   - /about/hcura-board-alumni/
 ---
@@ -25,28 +25,7 @@ We are also committed to providing a forum for student researchers to present th
 Recently, we have realized that it is important for undergraduates from other college campuses around the United States to come together and collectively present their research and interact with future colleagues. Thus, in January 2012, we launched the inaugural National Collegiate Research Conference (NCRC).
 
 {: .center-text}
-##FACULTY ADVISORS
-
-{: .center-text}
-**Gregory Llacer**
-
-{: .center-text}
-Director of the Office of Undergraduate Research Initiatives
-
-{: .center-text}
-**Dudley Herschbach**
-
-{: .center-text}
-Frank B. Baird Professor of Science and Professor Emeritus
-
-{: .center-text}
-Nobel Laureate in Chemistry, 1986
-
-{: .center-text}
-**Robert Lue**
-
-{: .center-text}
-Professor of the Practice of Molecular and Cellular Biology
+##BOARD OF FACULTY ADVISORS
 
 {: .center-text}
 **Jeremy Bloxham**
@@ -55,23 +34,55 @@ Professor of the Practice of Molecular and Cellular Biology
 Mallinckrodt Professor of Geophysics and Professor of Computational Science
 
 {: .center-text}
-Dean of Science, Faculty of Arts and Sciences
+Dean of Science, Faculty of Arts and Sciences, Harvard University
 
 {: .center-text}
-**Melissa Franklin**
+**Melissa E.B. Franklin**
 
 {: .center-text}
-Mallinckrodt Professor of Physics
-
-
-{: .center-text}
-**Margaret Lynch**
+Mallinckrodt Professor of Physics, Harvard University
 
 {: .center-text}
-Life Sciences Undergraduate Research Advisor
+**Dudley R. Herschbach**
 
 {: .center-text}
-**Gregg Tucci**
+Frank B. Baird Professor of Science and Professor Emeritus, Harvard University
 
 {: .center-text}
-Senior Lecturer on Chemistry and Chemical Biology
+Nobel Laureate in Chemistry, 1986
+
+{: .center-text}
+**Gregory A. Llacer**
+
+{: .center-text}
+Director of the Harvard College Office of Undergraduate Research and Fellowships
+
+{: .center-text}
+Director of the Harvard College Program for Research in Science and Engineering
+
+{: .center-text}
+**Margaret A. Lynch**
+
+{: .center-text}
+Life Sciences Undergraduate Research Advisor, Harvard University
+
+{: .center-text}
+**Robert A. Lue**
+
+{: .center-text}
+Professor of the Practice of Molecular and Cellular Biology, Harvard University
+
+{: .center-text}
+Richard L. Menschel Director of the Bok Center for Teaching and learning
+
+{: .center-text}
+Faculty Director of HarvardX; Director of the Harvard Ed Portal
+
+{: .center-text}
+**Gregory Tucci**
+
+{: .center-text}
+Senior Lecturer on Chemistry and Chemical Biology, Harvard University
+
+{: .center-text}
+Director of Undergraduate Studies in Chemistry

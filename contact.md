@@ -8,7 +8,7 @@ redirect_from:
 
 ###By e-mail:
 
-For questions about NCRC 2016, please contact: **ncrc@hcura.org**. Otherwise, please email **board@hcura.org** for general inquiries.  Please ensure that your e-mail has a clear and specific subject line.
+For general inquiries, please email **secretary@hcura.org**.  For questions about NCRC 2017, please contact: **programming@hcura.org**. For inquiries about sponsorship, contact **finance@hcura.org**. Please ensure that your e-mail has a clear and specific subject line.
 
 ###By post:
 
@@ -21,7 +21,7 @@ Address letters to staff according to the nature of your inquiry.  Our address i
    <dt>Cambridge, MA 02138</dt>
 </dl>
 
-If possible, please send a confirmatory e-mail to **board@hcura.org** after sending your letter.
+If possible, please send a confirmatory e-mail to **secretary@hcura.org** after sending your letter.
 
 ###Join our mailing list!
 
