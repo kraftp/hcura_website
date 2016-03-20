@@ -8,13 +8,13 @@ redirect_from:
 
 
 {: .center-text}
-##HCURA MISSION STATEMENT
+**HCURA MISSION STATEMENT**
 
 {: .center-text}
 *To increase the scope and visibility of undergraduate research by building an interdisciplinary research community that engages in projects that enrich the undergraduate research experience.*
 
 {: .center-text}
-##HISTORY OF HCURA
+**HISTORY OF HCURA**
 
 A 2006 report entitled “Undergraduate Research Experiences at Harvard” found that many students found research to be one of the most rewarding experiences they encountered at Harvard. However, the same report also found that many undergraduates felt that research was never actively promoted within Harvard. The Harvard College Undergraduate Research Association (HCURA) was founded in 2007 in response to this study and since then, undergraduate participation in research has steadily increased. Today, the research community at Harvard has expanded dramatically, with a significant portion of undergraduates submitting a thesis prior to graduation.
 
@@ -25,7 +25,7 @@ We are also committed to providing a forum for student researchers to present th
 Recently, we have realized that it is important for undergraduates from other college campuses around the United States to come together and collectively present their research and interact with future colleagues. Thus, in January 2012, we launched the inaugural National Collegiate Research Conference (NCRC).
 
 {: .center-text}
-##BOARD OF FACULTY ADVISORS
+**BOARD OF FACULTY ADVISORS**
 
 {: .center-text}
 **Jeremy Bloxham**

@@ -6,11 +6,11 @@ redirect_from:
   - /contact-us/
 ---
 
-###By e-mail:
+**By e-mail:**
 
 For general inquiries, please email **secretary@hcura.org**.  For questions about NCRC 2017, please contact: **programming@hcura.org**. For inquiries about sponsorship, contact **finance@hcura.org**. Please ensure that your e-mail has a clear and specific subject line.
 
-###By post:
+**By post:**
 
 Address letters to staff according to the nature of your inquiry.  Our address is:
 <dl>
@@ -23,11 +23,11 @@ Address letters to staff according to the nature of your inquiry.  Our address i
 
 If possible, please send a confirmatory e-mail to **secretary@hcura.org** after sending your letter.
 
-###Join our mailing list!
+**Join our mailing list!**
 
 https://lists.hcs.harvard.edu/mailman/listinfo/hura-list
 
-###Contact form
+**Contact form**
 
 Fill out this form to send an email to us!
 
